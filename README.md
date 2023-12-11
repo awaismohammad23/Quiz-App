@@ -4,4 +4,4 @@ The repository contains a basic quiz app that contains questions and it gives re
 # Specifications
 The app is created in Java and it has multiple subjets inside where we can give the quiz.
 
-#To Do
+# To Do
